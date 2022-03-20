@@ -1,34 +1,4 @@
-<!--<?php
 
-	// $conn = mysqli_connect('localhost','root','','db_task');
-	
-	// if($conn){
-		// echo 'yes connect';
-	// }
-	// else {
-		// echo 'not connect';
-	// }
-	// if(isset($_POST['submit1']))
-	// {
-		// $a = $_POST['name1'];
-		// $b = $_POST['psswrd'];
-		
-		
-		// $q="INSERT INTO tb_login(name,email,)VALUES('$a','$b',)";
-		// $q1=mysqli_query($conn,$q);
-		
-			// if($q1)
-			// {
-				// echo"<script>alert('REGISTER SUCESSFULLY');</script>";
-			// }
-			// else{
-				// echo"<script>alert('NOT REGISTERED');</script>";
-			// }
-	// }
-	
-	
-	
-// ?>	-->
 
 
 <?php
